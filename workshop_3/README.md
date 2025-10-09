@@ -51,7 +51,7 @@
    *Візерунок №3*  
    ![Візерунок 3](images/pattern_3.png)
 
-   *Nf djr* 
+   *Та сама робота.*   
    https://www.figma.com/design/Rpi0MWt2GeFyX6MSiIIHTP/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-2?node-id=8-646&t=yJVWJLFmvql4Skeb-1
 
 ### Висновки
