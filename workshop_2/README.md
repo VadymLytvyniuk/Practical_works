@@ -26,7 +26,7 @@
    *Фото виконаної роботи.*  
    ![Логотип Figma](images/logo.png)
 
-   *Та сама робота.*
+   *Та сама робота.*  
    [Логотип Figma](https://www.figma.com/design/JDS3PDaceA8wAocwAVgXmi/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-1?node-id=0-1&t=G7EFdtElSObKxe09-1)
 
 ### Висновки
