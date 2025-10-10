@@ -9,7 +9,7 @@
 
    ![Робоча область Figma 1](images/basic_1.png)
 
-2. *Створення каркасу, та додавання іконок, взятих з [Google Fonts](https://fonts.google.com/icons). Нижче знімок екрану робочої області Figma.*
+2. *Створення каркасу, та додавання на нього іконок, взятих з [Google Fonts](https://fonts.google.com/icons). Нижче знімок екрану робочої області Figma.*
 
    ![Робоча область Figma 2](images/basic_2.png)
 
