@@ -21,35 +21,25 @@
 
    ![Basic](images/basic.png)
 
+**Medium**
+1. *Фонова розмітка під телефон. Нижче знімок екрану робочої області Figma.*
 
+   ![Робоча область Figma 1](images/medium_1.png)
 
+2. *Додавання іконок, взятих з [Google Fonts](https://fonts.google.com/icons) та [Flaticon](https://www.flaticon.com/). Нижче знімок екрану робочої області Figma.*
 
+   ![Робоча область Figma 2](images/medium_2.png)
 
-   
-5. *Кінцеві результати. Нижче знімки екрану робочої області Figma.*
+3. *Додавання тексту та фотографії, подібної прикладу, взятої з [Unsplash](https://unsplash.com/). Нижче знімок екрану робочої області Figma.*
 
-   *Візерунок №1*
-   ![Візерунок 1](images/figma_pattern_1.png)
+   ![Робоча область Figma 3](images/medium_3.png)
 
-   *Візерунок №2*
-   ![Візерунок 2](images/figma_pattern_2.png)
+   *Фото виконаної роботи.*
 
-   *Візерунок №3*
-   ![Візерунок 3](images/figma_pattern_3.png)
-
-   *Фото виконаних робіт.*  
-
-   *Візерунок №1*  
-   ![Візерунок 1](images/pattern_1.png)
-
-   *Візерунок №2*  
-   ![Візерунок 2](images/pattern_2.png)
-
-   *Візерунок №3*  
-   ![Візерунок 3](images/pattern_3.png)
+   ![Medium](images/medium.png)
 
    *Та сама робота.*   
-   [Візерунки](https://www.figma.com/design/Rpi0MWt2GeFyX6MSiIIHTP/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-2?node-id=8-646&t=yJVWJLFmvql4Skeb-1)
+   [Basic/Medium](https://www.figma.com/design/2fGofSaBccaIHoq6ivGQDd/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-3?node-id=4-66&t=tpaFpfA3epIkaw08-1)
 
 ### Висновки
 В ході виконання практичної роботи було створено візерунки з використанням простих фігур. В результаті я розширив свої знання, як використовувати можливості Figma для створення проектів на основі простих геометричних фігур, таких як: трикутники, круги та квадрати.
