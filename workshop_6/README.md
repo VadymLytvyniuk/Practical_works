@@ -32,6 +32,9 @@
    *Іконка №5*  
    ![Іконка 5](images/icon_5.png)
 
+   *Іконка №6*  
+   ![Іконка 6](images/icon_6.png)
+
    *Та сама робота.*   
    [Іконки](https://www.figma.com/design/uKQYaIufWtDiFk8GCRkSjW/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-5?node-id=0-1&t=U0vWztAsSFwms5YW-1)
 
