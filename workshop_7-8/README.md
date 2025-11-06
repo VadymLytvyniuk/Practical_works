@@ -15,7 +15,7 @@
 
    ![Робоча область Figma 2](images/figma_2.png)
 
-3. *Кінцевий результат, після додавання тексту. Відповідні шрифти було взято з сайту [Google Fonts](https://fonts.google.com/?authuser=0). А сам текст, [Maze](https://maze.co/guides/usability-testing/#benefits). Нижче знімок екрану робочої області Figma.*
+3. *Кінцевий результат, після додавання тексту. Відповідні шрифти було взято з сайту [Google Fonts](https://fonts.google.com/?authuser=0). А сам текст з [Maze](https://maze.co/guides/usability-testing/#benefits). Нижче знімок екрану робочої області Figma.*
 
    ![Робоча область Figma 3](images/figma_3.png)
 
