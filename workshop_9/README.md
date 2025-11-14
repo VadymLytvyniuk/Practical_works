@@ -34,13 +34,13 @@
    *Фото виконаних робіт.*  
 
    *Картка товару №1*  
-   ![Картка товару 1](images/icon_1.png)
+   ![Картка товару 1](images/product_card_1.png)
 
    *Картка товару №2*  
-   ![Картка товару 2](images/icon_2.png)
+   ![Картка товару 2](images/product_card_2.png)
 
    *Картка товару №3*  
-   ![Картка товару 3](images/icon_3.png)
+   ![Картка товару 3](images/product_card_3.png)
 
    *Та сама робота.*   
    [Картки товарів](https://www.figma.com/design/BeaEfCoTXQhEQ0Vcnqi9bb/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-7?node-id=13-2&t=oa37uAcmd0kUneRD-1)
