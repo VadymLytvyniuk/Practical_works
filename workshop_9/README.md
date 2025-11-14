@@ -8,7 +8,7 @@
    ![Робоча область Figma 1](images/figma_1.png)
 
 2. *Створення/додавання необхідних елементів для подальшого формування малої картки товару. (зображення, текст, значки). Нижче знімок екрану робочої області Figma.*   
-   Основу для картки взято з сайту [Yes, Original](https://yesoriginal.com.ua/uk/krossovki-muzhskie-nike-air-monarch-iv-415445-101). Зображення товару та текстові дані були взяті безпосередньо з нього ж. Значки імпортовані з бібліотеки [Google Fonts](https://fonts.google.com/icons).*
+   Основу для картки взято з сайту [Yes, Original](https://yesoriginal.com.ua/uk/krossovki-muzhskie-nike-air-monarch-iv-415445-101). Зображення товару та текстові дані були взяті безпосередньо з нього ж. Значки імпортовані з бібліотеки [Google Fonts](https://fonts.google.com/icons).
 
    ![Робоча область Figma 2](images/figma_2.1.png)
 
@@ -18,12 +18,12 @@
 
 **Створення додаткових карток товарів, використовуючи функцію Auto layout у Figma.** 
 1. *Створення/додавання необхідних елементів для подальшого формування другої картки товару. (зображення, текст, значки). Нижче знімок екрану робочої області Figma.*   
-   Основу для цієї картки взято з сайту [Pethouse](https://pethouse.ua/ua/shop/sobakam/igrushki/trixie/trixie-plyushevaya-igrushka-bober-dlya-sobak/?utm_source=google&utm_medium=cpc&utm_campaign=DSA_%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8_geo_%D0%A3_ukr&utm_id=19180712862&utm_content=145055828635&utm_term=&utm_creative=737879941323&utm_matchtype=&utm_device=m&utm_network=g&utm_placement=&utm_adposition=&gad_source=1&gad_campaignid=19180712862&gclid=CjwKCAiAoNbIBhB5EiwAZFbYGJF_Q904nKIAIWTzhxL8w4KHG-2IxMo9jJNDBERCBnma0xmgoaIE5BoC5I8QAvD_BwE). Текстові дані були взяті безпосередньо з нього ж. Зображення товару взято подібне. Значки імпортовані з бібліотеки [Google Fonts](https://fonts.google.com/icons).*
+   Основу для цієї картки взято з сайту [Pethouse](https://pethouse.ua/ua/shop/sobakam/igrushki/trixie/trixie-plyushevaya-igrushka-bober-dlya-sobak/?utm_source=google&utm_medium=cpc&utm_campaign=DSA_%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8_geo_%D0%A3_ukr&utm_id=19180712862&utm_content=145055828635&utm_term=&utm_creative=737879941323&utm_matchtype=&utm_device=m&utm_network=g&utm_placement=&utm_adposition=&gad_source=1&gad_campaignid=19180712862&gclid=CjwKCAiAoNbIBhB5EiwAZFbYGJF_Q904nKIAIWTzhxL8w4KHG-2IxMo9jJNDBERCBnma0xmgoaIE5BoC5I8QAvD_BwE). Текстові дані були взяті безпосередньо з нього ж. Зображення товару взято подібне. Значки імпортовані з бібліотеки [Google Fonts](https://fonts.google.com/icons).
    
    ![Робоча область Figma 2](images/figma_2.2.png)
 
 2. *Створення/додавання необхідних елементів для подальшого формування третьої картки товару. (зображення, текст, значки). Нижче знімок екрану робочої області Figma.*   
-   Основу для цієї взято з [iСases](https://icases.ua/ua/products/emo-kupit). Зображення товару та текстові дані були взяті безпосередньо з цього сайту. Значки імпортовані з бібліотеки [Google Fonts](https://fonts.google.com/icons).*
+   Основу для цієї взято з [iСases](https://icases.ua/ua/products/emo-kupit). Зображення товару та текстові дані були взяті безпосередньо з цього сайту. Значки імпортовані з бібліотеки [Google Fonts](https://fonts.google.com/icons).
    
    ![Робоча область Figma 2](images/figma_2.3.png)
 
