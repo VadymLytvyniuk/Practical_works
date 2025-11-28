@@ -1,4 +1,4 @@
-<img width="1541" height="714" alt="image" src="https://github.com/user-attachments/assets/10f8d02a-cc86-444d-8874-0c65ed099ceb" /># Практична робота 13
+# Практична робота 13
 ## Дослідження кольорових гармоній та інструментів аналізу кольору в [Adobe Color](https://color.adobe.com/)
 
 ### Мета:   
