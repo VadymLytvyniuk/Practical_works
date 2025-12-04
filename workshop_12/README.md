@@ -1,4 +1,4 @@
-<img width="1019" height="845" alt="image" src="https://github.com/user-attachments/assets/5a528223-470f-4cc4-92c0-200b9b5f2452" /># Практична робота 12
+# Практична робота 12
 ## Розробка wireframe
 
 ### Мета:
