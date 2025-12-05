@@ -40,7 +40,7 @@
 
   ![Робоча область Figma](images/categories_1.png)
   
-* Промоблок, в даному випадку, із колекцією NATIVE.
+* Промоблок із колекцією NATIVE.
 
   ![Робоча область Figma](images/promoblock.png)
   
